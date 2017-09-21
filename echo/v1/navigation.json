@@ -8,6 +8,11 @@
     "Api Reference"
   ],
   "entries": {
+    "Code Samples": {
+      "ordering":[
+        "Hello World"
+      ]
+    },
     "Tutorials": {
       "ordering": [
         "Payments",
